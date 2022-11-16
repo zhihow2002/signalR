@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\cheehow\\Documents\\GitHub\\SignalRChat\\SignalRChat.csproj",
+      "projectUniqueName": "c:\\Users\\cheehow\\Documents\\GitHub\\signalR\\SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "c:\\Users\\cheehow\\Documents\\GitHub\\SignalRChat\\SignalRChat.csproj",
+      "projectPath": "c:\\Users\\cheehow\\Documents\\GitHub\\signalR\\SignalRChat.csproj",
       "packagesPath": "C:\\Users\\cheehow\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\cheehow\\Documents\\GitHub\\SignalRChat\\obj\\",
+      "outputPath": "c:\\Users\\cheehow\\Documents\\GitHub\\signalR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

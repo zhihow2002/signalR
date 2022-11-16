@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ftqmojf0dNY4+toFmCW47sjKQD4ROCIDpfy6oAf48BAeWRFbeeVPgXJyjU3MEKLzOoE9IuVM4jHiUTBk9ScIzw==",
+  "dgSpecHash": "TUrb3g9asEo4LPL47f1mVUeQ+EHy1Dg+NSrKMWf3xV+7n1dYxvnwkw1X2HIUC8gv8yruqmwyRH2+xL5ow7aAEQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\cheehow\\Documents\\GitHub\\SignalRChat\\SignalRChat.csproj",
+  "projectFilePath": "C:\\Users\\cheehow\\Documents\\GitHub\\signalR\\SignalRChat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
